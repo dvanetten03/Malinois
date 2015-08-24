@@ -1,0 +1,2 @@
+module MalinoisHelper
+end
